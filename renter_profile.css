@@ -1,0 +1,52 @@
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Source Code Pro', monospace;
+    border: white;
+    padding-left: 5px;
+    margin-left: 20px;
+    border-color: black;
+    color: black;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: red;
+    border-color: red!important;
+}
+
+a:hover {
+    color: gray;
+}
+
+a {
+    color: gray;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.btn-outline-secondary:hover {
+    color: rgb(255, 255, 255);
+    background-color: #ad1c1c;
+    border-color: #ad1c1c;
+}
+
+.carousel-item{
+    height: 200px;
+}
+
+.profile_pic{
+    background: url("https://www.wane.com/wp-content/uploads/sites/21/2017/05/therock_35537315_ver1.0.jpg");
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+    background-position: 50%;
+    background-size: cover;
+    border-radius: 140px;
+    background-position: 50% 100%;
+}
+
+.main_body{
+    padding-top: 65px;
+}
+
+.cheeky{
+    height: 350px;
+}

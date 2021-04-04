@@ -1,0 +1,85 @@
+.img-fluid{
+    height: 80px;
+}
+
+.carousel-item{
+    height: 200px;
+    width: 350px;
+}
+
+
+.main_body{
+    margin-top: 65px;
+}
+
+body{
+    font-family: 'Source Code Pro', monospace;
+}
+
+.font-sm{
+    font-size: 1rem;
+}
+
+h1{
+    font-family: 'Kranky', cursive;
+    color: #cb3939;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #cb3939;
+    border-color: #cb3939;
+}
+
+.btn-outline-secondary:hover {
+    color: rgb(255, 255, 255);
+    background-color: #ad1c1c;
+    border-color: #ad1c1c;
+}
+
+.card{
+    height: 350px;
+}
+
+a:hover {
+    color: gray;
+}
+
+a {
+    color: gray;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Source Code Pro', monospace;
+    border: white;
+    padding-left: 5px;
+    margin-left: 20px;
+    border-color: black;
+    color: black;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: red;
+    border-color: red!important;
+}
+
+.modal-xl{
+    font-size: 1.1rem;
+}
+
+.h1, h1 {
+    font-size: 5rem;
+}
+
+.inside_modal{
+    width: 433px !important;
+    height: 300px !important;
+}
+
+.profile_pic{
+    height: 75px;
+    width: 75px;
+    border-radius: 35px;
+}

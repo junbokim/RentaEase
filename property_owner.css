@@ -1,0 +1,122 @@
+.jumbotron{
+    /* text-align: center; */
+    background: url("https://images.unsplash.com/photo-1441107621285-05f256b47ce5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1876&q=80");
+    background-size: cover;
+    background-position: 100% 30%;
+    height: 400px;
+    /* padding-top: 150px; */
+}
+
+.main_body{
+    padding-top: 70px;
+}
+
+.blockquote{
+    text-align: left;
+}
+
+.navbar{
+    background-color: white !important;
+    padding-bottom: 14px;
+    /* position: fixed; */
+}
+
+.Internal_text{
+    color: white;
+    border-radius: 20px;
+    height: 300px;
+}
+
+.blockquote-footer{
+    color: white;
+}
+
+.try{
+    background: url("https://static1.squarespace.com/static/5134cbefe4b0c6fb04df8065/t/5b6077f80e2e72e41d0ee860/1533048827915/Keanu.jpg");
+    background-size: cover;
+    border-radius: 140px;
+    background-position: 50% 100%;
+    height: 400px;
+    width: 500px;
+}
+
+.place_holder{
+    height: 140px;
+}
+
+.dwayne{
+    background: url("https://www.wane.com/wp-content/uploads/sites/21/2017/05/therock_35537315_ver1.0.jpg");
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.will{
+    background: url("https://www.alux.com/wp-content/uploads/2017/03/Will-Smith-net-worth-e1490097308847.jpg");
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.taylor{
+    background: url("https://images.hdqwalls.com/wallpapers/2018-taylor-swift-9v.jpg");
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.chart_div{
+    height: 300px;
+    width: 600px;
+}
+
+.more-padding{
+    height: 400px;
+    width: 600px;
+    padding-top: 100px;
+}
+
+body{
+    font-family: 'Source Code Pro', monospace;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Source Code Pro', monospace;
+    border: white;
+    padding-left: 5px;
+    margin-left: 20px;
+    border-color: black;
+    color: black;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: red;
+    border-color: red!important;
+}
+
+a:hover {
+    color: gray;
+}
+
+a {
+    color: gray;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.btn-outline-secondary:hover {
+    color: rgb(255, 255, 255);
+    background-color: #ad1c1c;
+    border-color: #ad1c1c;
+}
+
+.carousel-item{
+    height: 200px;
+}
+
+.cheeky{
+    height: 350px;
+}
